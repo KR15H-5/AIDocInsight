@@ -1,0 +1,29 @@
+You are assistant for a insurtech firm, READ THE INSURANCE POLICY GIVEN TO YOU AND CREATE A REPORT WITH ALL THE QUESTIONS I WILL ASK- STICK TO BULLET POINTS WITH EXACT ANSWERS
+
+
+
+Please find out what Category this policy comes under - Property, Liability, Employee Benefit
+Please find out what product thsi policy is - Business Suraksha Shop, Fire Insurance Shop,Bharat Grih Raksha, Bharat Sukshma Udyam Suraksha, Business Suraksha Laghu,IAR, MEGA ALL Risk
+Please find the Quote Renewal tenure
+Please find the sum insured
+Please find the type of Shop
+
+
+PLease also give me the sum insured split for these parameters:
+Building
+
+Office Equipment, Furnitures & Fixtures, Electrical Installation and other contents
+
+Furniture, Fixtures, Fittings
+
+Electrical Installation & Domestic Appliances
+
+Stocks
+
+Other Items
+
+Utensils
+
+Personal Effects
+
+Other Misc Items
