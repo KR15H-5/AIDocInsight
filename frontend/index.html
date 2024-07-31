@@ -209,7 +209,6 @@
                 }
 
                 const result = await response.json();
-                responseDiv.innerHTML = `Risk rating: ${result.rating}`;
 
                 const blob = new Blob([result.rating], { type: 'text/plain' });
                 const url = window.URL.createObjectURL(blob);
