@@ -210,6 +210,16 @@
 
                 const result = await response.json();
                 responseDiv.innerHTML = `Risk rating: ${result.rating}`;
+
+                const blob = new Blob([result.rating], { type: 'text/plain' });
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'response.txt';
+                document.body.appendChild(a);
+                a.click();
+                window.URL.revokeObjectURL(url);
+                a.remove();
             } catch (error) {
                 console.error('Error:', error);
                 responseDiv.innerHTML = 'An error occurred. Please try again.';
