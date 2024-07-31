@@ -166,7 +166,7 @@
 </head>
 <body>
 
-    <h1>Upload Images for Policy Renewal</h1>
+    <h1>Upload Images for Risk Assessment</h1>
     <form id="uploadForm" method="POST" enctype="multipart/form-data">
         <input type="file" id="fileInput" name="files" multiple accept="image/*" required>
         <button type="submit">Upload Images</button>
@@ -199,7 +199,7 @@
             });
 
             try {
-                const response = await fetch('http://localhost:3000/upload', {
+                const response = await fetch('https://alwrite-rms.onrender.com/upload', {
                     method: 'POST',
                     body: formData,
                 });
@@ -209,7 +209,7 @@
                 }
 
                 const result = await response.json();
-                responseDiv.innerHTML = `Risk rating: ${result}`;
+                responseDiv.innerHTML = `Risk rating: ${result.rating}`;
             } catch (error) {
                 console.error('Error:', error);
                 responseDiv.innerHTML = 'An error occurred. Please try again.';
