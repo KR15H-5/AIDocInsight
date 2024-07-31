@@ -1,19 +1,23 @@
-## Report on Insurance Policy 
+## Insurance Policy Report
 
 **Category:** Employee Benefit
+
 **Product:** MEGA ALL Risk
+
 **Quote Renewal Tenure:** 10/04/2023
+
 **Sum Insured:** 4,53,223.00
 
-**Type of Shop:** Not specified in the given documents
+**Type of Shop:** Not mentioned in the policy document.
 
-**Sum Insured Split**
-- Building: Not specified
-- Office Equipment, Furnitures & Fixtures, Electrical Installation and other contents: Not specified
-- Furniture, Fixtures, Fittings: Not specified
-- Electrical Installation & Domestic Appliances: Not specified
-- Stocks: Not specified
-- Other Items: Not specified
-- Utensils: Not specified
-- Personal Effects: Not specified
-- Other Misc Items: Not specified 
+**Sum Insured Split:**
+
+- Building: Not mentioned in the policy document.
+- Office Equipment, Furnitures & Fixtures, Electrical Installation and other contents: Not mentioned in the policy document.
+- Furniture, Fixtures, Fittings: Not mentioned in the policy document.
+- Electrical Installation & Domestic Appliances: Not mentioned in the policy document.
+- Stocks: Not mentioned in the policy document.
+- Other Items: Not mentioned in the policy document.
+- Utensils: Not mentioned in the policy document.
+- Personal Effects: Not mentioned in the policy document.
+- Other Misc Items: Not mentioned in the policy document. 
