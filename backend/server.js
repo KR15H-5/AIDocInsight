@@ -63,16 +63,7 @@ Please also give me the sum insured split for these parameters:
     // Clean up the uploaded files
     req.files.forEach(file => fs.unlinkSync(file.path));
 
-    // Send the response file as a downloadable file
-    res.download(responseFilePath, 'response.txt', err => {
-      if (err) {
-        console.error('Error sending the response file:', err);
-        res.status(500).send('Internal Server Error');
-      } else {
-        // Clean up the response file
-        fs.unlinkSync(responseFilePath);
-      }
-    });
+    
   } catch (error) {
     console.error('Error generating content:', error);
     res.status(500).send('Internal Server Error');

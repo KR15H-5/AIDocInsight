@@ -1,19 +1,21 @@
-## Report on Insurance Policy 
+This policy is a **Employee Benefit** policy.
 
-**Category:** Employee Benefit
-**Product:** MEGA ALL Risk
-**Quote Renewal Tenure:** 10/04/2023
-**Sum Insured:** 4,53,223.00
+The product is **Group Mediclaim Policy Schedule.** 
 
-**Type of Shop:** Not specified in the given documents
+Quote Renewal Tenure is not mentioned in the policy.
 
-**Sum Insured Split**
-- Building: Not specified
-- Office Equipment, Furnitures & Fixtures, Electrical Installation and other contents: Not specified
-- Furniture, Fixtures, Fittings: Not specified
-- Electrical Installation & Domestic Appliances: Not specified
-- Stocks: Not specified
-- Other Items: Not specified
-- Utensils: Not specified
-- Personal Effects: Not specified
-- Other Misc Items: Not specified 
+The Sum Insured is **4,53,223.00**.
+
+The type of shop is not applicable.
+
+The Sum Insured split for the following parameters is not mentioned in the policy:
+
+- Building
+- Office Equipment, Furnitures & Fixtures, Electrical Installation and other contents
+- Furniture, Fixtures, Fittings
+- Electrical Installation & Domestic Appliances
+- Stocks
+- Other Items
+- Utensils
+- Personal Effects
+- Other Misc Items 
