@@ -27,7 +27,7 @@ app.post('/upload', upload.array('files'), async (req, res) => {
 
 
 
-Please find out what Category this policy comes under - Property, Liability, Employee Benefit
+Please find out what Category this policy comes under- Property, Liability, Employee Benefit
 Please find out what product thsi policy is - Business Suraksha Shop, Fire Insurance Shop,Bharat Grih Raksha, Bharat Sukshma Udyam Suraksha, Business Suraksha Laghu,IAR, MEGA ALL Risk
 Please find the Quote Renewal tenure
 Please find the sum insured
