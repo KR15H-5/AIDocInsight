@@ -23,35 +23,43 @@ app.post('/upload', upload.array('files'), async (req, res) => {
   console.log('Files uploaded:', req.files);
   try {
     const prompt = `
-  You are assistant for a insurtech firm, READ THE INSURANCE POLICY GIVEN TO YOU AND CREATE A REPORT WITH ALL THE QUESTIONS I WILL ASK- STICK TO BULLET POINTS WITH EXACT ANSWERS
+  1. Create an email summary of this document - (It should include Below details)	
 
+Policy Number 
+IC name - this will be policy servicing office name
+Product name
+Policy Tenure
+Overall Sum insured -  Is there is multilocation all together
+Locations - Total no of locations	
+Occupancy - Business of the Insured
+coverage section like - Fire and Special Perils and Burglary
+Premium details 
 
+2. Please find the Terms and Conditions
 
-Please find out what Category this policy comes under- Property, Liability, Employee Benefit
-Please find out what product thsi policy is - Business Suraksha Shop, Fire Insurance Shop,Bharat Grih Raksha, Bharat Sukshma Udyam Suraksha, Business Suraksha Laghu,IAR, MEGA ALL Risk
-Please find the Quote Renewal tenure
-Please find the sum insured
-Please find the type of Shop
+3. Please find the deductible/Excess
 
+4. please find clauses warranties
 
-PLease also give me the sum insured split for these parameters:
-Building
+5. Please find the Name of the Insured and Communication Address
 
-Office Equipment, Furnitures & Fixtures, Electrical Installation and other contents
+6. Please find the Hypothecation Details - Financial Interest, Financier Interest & Hypothecation Details
 
-Furniture, Fixtures, Fittings
+7. Please find the Intermediary Details	- Intermediary Name/ Agency/Broker Name, Intermediary Code/Agency/Broker Code, Agent's/Broker's Mobile, Intermediary Mobile No/ Intermediary Email ID, Agent's/Broker's Email ID
 
-Electrical Installation & Domestic Appliances
+8. Please find the perils covered - Standard Fire and Special Perils
 
-Stocks
+9. Please Find the Addon Covers - Like (STFI, Earthquake, 
 
-Other Items
+10. Please find the Co-insurance Details - If 1 or many
 
-Utensils
+A -Insurer Name/Name of the company & Location & Share Percentage & Office Code	
+B -Insurer Name/Name of the company & Location & Share Percentage & Office Code
+C -Insurer Name/Name of the company & Location & Share Percentage & Office Code
 
-Personal Effects
+11. Please find the premium details with GST
 
-Other Misc Items
+12. please find the commission% and brokerage 
 
     `;
     
