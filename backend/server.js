@@ -21,8 +21,21 @@ app.use(express.urlencoded({ extended: true }));
 
 app.post('/upload', upload.array('files'), async (req, res) => {
   console.log('Files uploaded:', req.files);
+  console.log('Policy Type:', req.body.policyType);
   try {
-    const prompt = fs.readFileSync('prompt.txt', 'utf-8');
+    switch (req.body.policyType) {
+      case 'Fire Policy':
+        prompt = fs.readFileSync('fire_prompt.txt', 'utf-8');
+        break;
+      case 'Employee Benefit':
+        prompt = fs.readFileSync('employee_benefit_prompt.txt', 'utf-8');
+        break;
+      case 'Liability':
+        prompt = fs.readFileSync('liability_prompt.txt', 'utf-8');
+        break;
+      default:
+        throw new Error('Invalid policy type');
+    }
     
 
     const images = req.files.map(file => {
