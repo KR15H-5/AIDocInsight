@@ -1,86 +1,29 @@
-
-
-1. Create a summary of this insurance policy- which should include the details listed below	
-
-Policy Number 
-IC name - this will be policy servicing office name
-Product name
-Policy Tenure
-Overall Sum insured -  
-Member Details (Demographic report)	
-Premium details 
-
-2. Please find the Terms and Conditions
-
-3. Please find the deductible/Excess
-
-4. please find clauses warranties
-
-5. Please find the Name of the Insured and Communication Address
-
-6. Please find the Hypothecation Details - Financial Interest, Financier Interest & Hypothecation Details
-
-7. Please find the Intermediary Details	- Intermediary Name/ Agency/Broker Name, Intermediary Code/Agency/Broker Code, Agent's/Broker's Mobile, Intermediary Mobile No/ Intermediary Email ID, Agent's/Broker's Email ID
-
-8. Provide Demographic report summary or /member details
-   Schedule of Members (Emp Code/ Name of the person/ Emp Relation/ Grade/ AGE/ Gender/  Sum Insured / Date of Joining/ Location)
-
-
-9. Provide Policy Number and previous policy Number
-
-10. Please find the Co-insurance Details - If 1 or many
-
-A -Insurer Name/Name of the company & Location & Share Percentage & Office Code	
-B -Insurer Name/Name of the company & Location & Share Percentage & Office Code
-C -Insurer Name/Name of the company & Location & Share Percentage & Office Code
-
-11. Please find the premium details with GST
-
-12. please find the commission% and brokerage 
-
-13. Provide Summary of Insured Details including age band
-
-14. Provide summary of Sum insured person
-
-15. Provide coverage and coverage details and sum insured details
-
-16. Provide Claims Administrator Details
-
-17. Provide Premium Details / Premium Computation / GST Details
-
-18. Provide GPA( Group Personal Accident) and GPA coverage Details
-
-19. Clauses and Endorsement attached to the policy /
-    Additional Conditions : Subject to the following additional Conditions and attached Clauses /
-    Endorsements / Warranties 
-    Provide Policy Conditions/Extensions/Endorsements
-
-19. Policy issuance details and intermediary details/ policyholders details
-
-20. Provide Details of the previous policy (in case of renewal)
-
-21. Provide Risk Details (Total No of Employees Covered/ Total No of Lives Covered/  Basis of Sum Insured/  Family Covered / Total Sum Insured)
- 
-22. Provide Copayment Details and any special conditions covered 
-
-23. Provide Notice of communication to be given  in respect of claim (eg, Name/ Address/ City/ Email Id/ Customer care number)  
-
-24. Provide Agent/Broker Details  
- 
-25. Provide TPA Details
-
-26. Provide coverages / Non coverages details
-
-27. Provide Exclusion details
-
-28. Provide day care procedure details
-
-29. Provide maternity basic details , advance cover details
-    Provide corporate buffer details
-
-30. Provide cost containment details
-
-31. Provide claim analytics details
+You are assistant for a insurtech firm, READ THE INSURANCE POLICY GIVEN TO YOU AND CREATE A REPORT WITH ALL THE QUESTIONS I WILL ASK- STICK TO BULLET POINTS WITH EXACT ANSWERS
 
 
 
+Please find out what Category this policy comes under- Property, Liability, Employee Benefit
+Please find out what product thsi policy is - Business Suraksha Shop, Fire Insurance Shop,Bharat Grih Raksha, Bharat Sukshma Udyam Suraksha, Business Suraksha Laghu,IAR, MEGA ALL Risk
+Please find the Quote Renewal tenure
+Please find the sum insured
+Please find the type of Shop
+
+
+PLease also give me the sum insured split for these parameters:
+Building
+
+Office Equipment, Furnitures & Fixtures, Electrical Installation and other contents
+
+Furniture, Fixtures, Fittings
+
+Electrical Installation & Domestic Appliances
+
+Stocks
+
+Other Items
+
+Utensils
+
+Personal Effects
+
+Other Misc Items
