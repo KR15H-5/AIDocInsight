@@ -1,1 +1,37 @@
-say hi there i am fire
+1. Create a summary of this insurance policy- which should include the details listed below	
+
+Policy Number 
+IC name - this will be policy servicing office name
+Product name
+Policy Tenure
+Overall Sum insured -  Is there is multilocation all together
+Locations - Total no of locations	
+Occupancy - Business of the Insured
+coverage section like - Fire and Special Perils and Burglary
+Premium details 
+
+2. Please find the Terms and Conditions
+
+3. Please find the deductible/Excess
+
+4. please find clauses warranties
+
+5. Please find the Name of the Insured and Communication Address
+
+6. Please find the Hypothecation Details - Financial Interest, Financier Interest & Hypothecation Details
+
+7. Please find the Intermediary Details	- Intermediary Name/ Agency/Broker Name, Intermediary Code/Agency/Broker Code, Agent's/Broker's Mobile, Intermediary Mobile No/ Intermediary Email ID, Agent's/Broker's Email ID
+
+8. Please find the perils covered - Standard Fire and Special Perils
+
+9. Please Find the Addon Covers - Like (STFI, Earthquake, 
+
+10. Please find the Co-insurance Details - If 1 or many
+
+A -Insurer Name/Name of the company & Location & Share Percentage & Office Code	
+B -Insurer Name/Name of the company & Location & Share Percentage & Office Code
+C -Insurer Name/Name of the company & Location & Share Percentage & Office Code
+
+11. Please find the premium details with GST
+
+12. please find the commission% and brokerage 
